@@ -18,7 +18,7 @@ require (
 	github.com/hashicorp/vault/api v1.10.0
 	github.com/libp2p/go-libp2p v0.32.0
 	github.com/libp2p/go-libp2p-kbucket v0.6.3
-	github.com/libp2p/go-libp2p-pubsub v0.10.0
+	github.com/libp2p/go-libp2p-pubsub v0.10.1
 	github.com/miekg/dns v1.1.56 // indirect
 	github.com/multiformats/go-base32 v0.1.0 // indirect
 	github.com/multiformats/go-multiaddr v0.12.3
