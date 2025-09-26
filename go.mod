@@ -1,6 +1,6 @@
 module github.com/0xPolygon/polygon-edge
 
-go 1.20
+go 1.23
 
 require (
 	github.com/btcsuite/btcd v0.22.1
@@ -32,7 +32,7 @@ require (
 	github.com/umbracle/go-eth-bn256 v0.0.0-20230125114011-47cb310d9b0b
 	golang.org/x/crypto v0.22.0
 	google.golang.org/grpc v1.63.2
-	google.golang.org/protobuf v1.34.0
+	google.golang.org/protobuf v1.36.9
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
 )
 
